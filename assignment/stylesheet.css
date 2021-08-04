@@ -1,10 +1,10 @@
 body{
-  color: yellow;
+  color: lightblue;
   text-align: left;
 }
 
 p{
-  color: blue;
+  color: teal;
   background-color: lime;
   text-align: right;
   margin-left: 84%;
@@ -12,6 +12,10 @@ p{
 
 header{
   background-color: grey;
+  padding-left: 1.5%;
+  padding-right: 1.5%;
+  padding-top: .1%;
+  padding-bottom: .1%;
   margin-right: 65%
 }
 
@@ -29,6 +33,7 @@ h2{
 }
 
 h3{
+  color: lightblue;
   background-color: grey;
   padding: 1%;
 }
